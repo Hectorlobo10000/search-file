@@ -44,16 +44,19 @@ def getDataFiles(directory, filename, destination):
   totalDurationDays = 0
   fileSize = 0
   fileDuration = 0
+  totalFiles = 0
   list = open(filename + ".txt", "w+")
   for root, dirs, files in os.walk(directory):
     """ for roots, dirss, filess in os.walk(root): """
     for file in files:
-      if file.lower().endswith(".mp3"):
+      if file.lower().endswith(".mp3") or file.endswith(".mp4") or file.endswith(".wav") or file.endswith(".wma") or file.endswith(".acc"):
         """ or file.endswith(".mp4") or file.endswith(".wav") or file.endswith(".wma") or file.endswith(".acc") """
         pathFile = root + "/" + file
         if not "Musica-Larga" in pathFile:
           try:
             with audioread.audio_open(pathFile) as f:
+              totalFiles = totalFiles + 1
+              print(totalFiles)
               """ tamano en total en gb """
               fileSize = getFileSize(pathFile)
               totalSizeGB += fileSize
@@ -64,18 +67,21 @@ def getDataFiles(directory, filename, destination):
               """ mover archivos grandes """
               dest = directory + destination + file
               if moveLargeFile(pathFile, round((fileDuration / 60), 2), dest):
-                text = file + " -- " + str(round((fileDuration / 60), 2)) + " -- " + str(fileSize) + " -- File moved" +"\n"
+                text = file + " --- " + str(round((fileDuration / 60), 2)) + " --- " + str(fileSize) + " --- File moved" + "\n"
               else:
-                text = file + " -- " + str(round((fileDuration / 60), 2)) + " -- " + str(fileSize) + "\n"
+                text = file + " --- " + str(round((fileDuration / 60), 2)) + " --- " + str(fileSize) + "\n"
               """ impresion """
-              list.write(text)
+              list.write(root + " --- " + text)
               totalSeconds += f.duration
-          except:
+          except Exception as e:
+            print(e)
             list.write(file + " -- ERROR DE ARCHIVO \n")
   totalDurationDays = getDuration(totalSeconds)
-  list.write("Total seconds: " + str(totalSeconds))
-  list.write("Total days: " + str(totalDurationDays))
-  list.write("Total GB: " + str(totalSizeGB))
+  list.write("\n")
+  list.write("Total seconds: " + str(totalSeconds) + "\n")
+  list.write("Total days: " + str(totalDurationDays) + "\n")
+  list.write("Total GB: " + str(totalSizeGB) + "\n")
+  list.write("Total files: " + str(totalFiles) + "\n")
   list.close()
   print("Total seconds: ", totalSeconds)
   print("Total days: ", totalDurationDays)
