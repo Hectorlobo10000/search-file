@@ -707,7 +707,7 @@
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Salsa (Género_ Salsa) --- Belecumbe.mp3 --- 5.56 --- 0.0064648438
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Salsa (Género_ Salsa) --- Jose Alberto 'el canario' - Fotos y recuerdos.mp3 --- 4.6 --- 0.0054492188
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Salsa (Género_ Salsa) --- 08 - ALBITA=Que manera de quererte.mp3 --- 5.99 --- 0.0081542969
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Salsa (Género_ Salsa) --- 10 - SON BY 4=A puro dolor.mp3 --- 10.26 --- 0.0041210937 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Salsa (Género_ Salsa) --- 10 - SON BY 4=A puro dolor.mp3 --- 10.26 --- 0.0041210937 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Salsa (Género_ Salsa) --- La Sonora Carruseles - El Bailarin de la Avenida.mp3 --- 4.13 --- 0.0037011719
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Salsa (Género_ Salsa) --- La Sonora Carruseles - Al Son de Los Cueros.mp3 --- 4.1 --- 0.0036621094
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Salsa (Género_ Salsa) --- oscar de leon - Yo Quisiera.mp3 --- 5.98 --- 0.0053515625
@@ -1199,7 +1199,7 @@
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Julio Iglesias - Discografia/JULIO IGLESIAS ASI NACEMOS --- Hace unos años.mp3 --- 3.96 --- 0.0088574219
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Julio Iglesias - Discografia/JULIO IGLESIAS ASI NACEMOS --- Tenia una guitarra.mp3 --- 3.24 --- 0.0072460937
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Julio Iglesias - Discografia/JULIO IGLESIAS ASI NACEMOS --- Asi nacemos.mp3 --- 3.45 --- 0.0077246094
-A chicago.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Julio Iglesias - Discografia/JULIO IGLESIAS ASI NACEMOS --- A chicago.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Julio Iglesias - Discografia/JULIO IGLESIAS ASI NACEMOS --- Da Hil Sayo.mp3 --- 2.99 --- 0.0066796875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Julio Iglesias - Discografia/JULIO IGLESIAS ASI NACEMOS --- 24 horas.mp3 --- 4.48 --- 0.0100097656
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Julio Iglesias - Discografia/JULIO IGLESIAS ASI NACEMOS --- Bla, bla, bla.mp3 --- 3.78 --- 0.0084472656
@@ -1487,7 +1487,7 @@ A chicago.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/elvis crespo - los monsters (2012) (Género_ Merengue)/Elvis Crespo (Genero_ Merengue) --- Elvis Crespo - Bandida.mp3 --- 4.04 --- 0.0045214844
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/elvis crespo - los monsters (2012) (Género_ Merengue)/Elvis Crespo (Genero_ Merengue) --- Elvis Crespo Ft Ilegales - Yo No Soy Un Moustro.mp3 --- 3.46 --- 0.0077441406
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/elvis crespo - los monsters (2012) (Género_ Merengue)/Elvis Crespo (Genero_ Merengue) --- Elvis Crespo - Pintame.mp3 --- 4.34 --- 0.0038867187
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/elvis crespo - los monsters (2012) (Género_ Merengue)/Elvis Crespo (Genero_ Merengue) --- elvis crespo, ilegales, proyecto uno - merengue mix.mp3 --- 13.91 --- 0.0124414063 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/elvis crespo - los monsters (2012) (Género_ Merengue)/Elvis Crespo (Genero_ Merengue) --- elvis crespo, ilegales, proyecto uno - merengue mix.mp3 --- 13.91 --- 0.0124414063 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/elvis crespo - los monsters (2012) (Género_ Merengue)/Elvis Crespo (Genero_ Merengue) --- Elvis Crespo - Vi A Mi Ex.mp3 --- 2.97 --- 0.00265625
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/elvis crespo - los monsters (2012) (Género_ Merengue)/Elvis Crespo (Genero_ Merengue) --- Elvis Crespo - Me Gusta Me Gusta.mp3 --- 4.16 --- 0.0037207031
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/elvis crespo - los monsters (2012) (Género_ Merengue)/Elvis Crespo (Genero_ Merengue) --- Elvis Crespo - Hora Enamorada.mp3 --- 4.21 --- 0.0037792969
@@ -1502,7 +1502,7 @@ A chicago.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/elvis crespo - los monsters (2012) (Género_ Merengue)/elvis crespo . nuestra cancion --- 01 Rico Miedo Feat Toño Rosario (Www.FlowHoT.NeT).mp3 --- 3.71 --- 0.0083398437
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/elvis crespo - los monsters (2012) (Género_ Merengue)/elvis crespo . nuestra cancion --- 09 La Novia Bella Feat Gocho (Www.FlowHoT.NeT).mp3 --- 3.86 --- 0.0086621094
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/elvis crespo - los monsters (2012) (Género_ Merengue)/elvis crespo . nuestra cancion --- 08 Te Invito Un Cafe (Www.FlowHoT.NeT).mp3 --- 4.15 --- 0.0093261719
-Elvis Crespo   Suavemente.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/elvis crespo - los monsters (2012) (Género_ Merengue) --- Elvis Crespo   Suavemente.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony --- I WANT TO SPEND MY LIFETIME LOVING YOU - MARC ANTHONY AND TINA ARINA.mp3 --- 0.96 --- 0.000859375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony --- (00)Chayanne - Y tu te vas (Version Salsa).mp3 --- 4.07 --- 0.00546875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony --- Marc Antony - Ahora Quien (Salsa Version).mp3 --- 5.0 --- 0.006484375
@@ -1524,7 +1524,7 @@ Elvis Crespo   Suavemente.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony --- Salsa marc anthony - Mark Antony - Se me sigue olvidando.mp3 --- 4.89 --- 0.004375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony --- ABRAZAME MUY FUERTE - MARC ANTHONY.mp3 --- 0.89 --- 0.0011914062
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony --- Marc Antony - Se Esfuma Tu Amor.mp3 --- 0.53 --- 0.0004785156
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony --- salsa mix mark antoni.mp3 --- 10.15 --- 0.0090722656 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony --- salsa mix mark antoni.mp3 --- 10.15 --- 0.0090722656 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony --- LA FUERZA DEL DESTINO - MARC ANTHONY-SANDRA ECHEVERRÃ­A.mp3 --- 3.69 --- 0.0049609375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony --- ahora quien mark (salsa).mp3 --- 5.16 --- 0.0046191406
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony --- Yuri Buenaventura - Manos Latino (Salsa Jazz Instrumental).mp3 --- 4.64 --- 0.004140625
@@ -1598,7 +1598,7 @@ Elvis Crespo   Suavemente.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony/otra musica --- India - Sola [Salsa Version].mp3 --- 5.46 --- 0.0048925781
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony/otra musica --- 01-obie_bermudez-celos_(exclusive_salsa_version).mp3 --- 4.32 --- 0.005234375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony/otra musica --- Gilberto Santarosa - Almas Gemelas (Salsa).mp3 --- 4.64 --- 0.0041503906
-ESCANDALO BOLERO - MARC ANTHONY.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony/hora del recuerdo --- ESCANDALO BOLERO - MARC ANTHONY.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony/hora del recuerdo --- EL ULTIMO BESO - MARC ANTHONY.mp3 --- 4.49 --- 0.0017578125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony/hora del recuerdo --- Victor Manuelle - Por Ella (salsa).mp3 --- 4.66 --- 0.0041699219
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony/hora del recuerdo --- Marc Antony - Me Haces Falta.mp3 --- 0.44 --- 0.0004003906
@@ -1627,7 +1627,7 @@ ESCANDALO BOLERO - MARC ANTHONY.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony/hora del recuerdo --- Marc Anthony - Valio La Pena (Salsa Version).mp3 --- 4.87 --- 0.0065332031
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony/hora del recuerdo --- Marc Antony - Te Tengo Aqui.mp3 --- 0.51 --- 0.0006933594
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony/hora del recuerdo --- Marc Antony - Me Voy A Regalar.mp3 --- 5.43 --- 0.0012109375
-Marc Antony - Escandalo Bolero.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony/hora del recuerdo --- Marc Antony - Escandalo Bolero.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony/hora del recuerdo --- Marc Anthony - Desde Un Principio - Salsa Mark Antoni) Nadie Como Ella.mp3 --- 4.94 --- 0.0044238281
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony/hora del recuerdo --- TE CONOZCO BIEN - MARC ANTHONY.mp3 --- 5.22 --- 0.0020410156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/marc anthony/hora del recuerdo --- VIVIENDO - MARC ANTHONY.mp3 --- 0.12 --- 0.0001074219
@@ -1672,9 +1672,9 @@ Marc Antony - Escandalo Bolero.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Sebastian -Coleccion de Oro --- Joan Sebastian - 16.Un idiota.mp3 --- 3.29 --- 0.002578125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Sebastian -Coleccion de Oro --- Joan Sebastian - 8.Hasta que amanezca.mp3 --- 3.01 --- 0.0023535156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Los Iracundos --- los iracundos - si lloras por mi.mp3 --- 2.74 --- 0.0028515625
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Los Iracundos --- los iracundos - enganchados.mp3 --- 13.36 --- 0.0119433594 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Los Iracundos --- los iracundos - enganchados.mp3 --- 13.36 --- 0.0119433594 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Los Iracundos --- Los Iracundos - Por que se ocupan tanto de Mi.mp3 --- 4.34 --- 0.0038867187
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Los Iracundos --- 14 14 exitos enganchados 1.mp3 --- 13.78 --- 0.0154101562 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Los Iracundos --- 14 14 exitos enganchados 1.mp3 --- 13.78 --- 0.0154101562 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Los Iracundos --- buenas epocas - los iracundos- viento dile a la lluvia.mp3 --- 1.75 --- 0.0015917969
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Los Iracundos --- Los Iracundos - Candilejas.mp3 --- 3.39 --- 0.0030371094
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Los Iracundos --- Los Iracundos - Amada Amante.mp3 --- 3.9 --- 0.0035449219
@@ -1896,11 +1896,11 @@ Marc Antony - Escandalo Bolero.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Emilio Zapata - Mi Forma De Sentir.mp3 --- 3.81 --- 0.0034082031
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 0001 VARIOS - SOLO PIENSO EN TI GUILLERMO DAVILA.mp3 --- 2.86 --- 0.0025585938
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- SI TU TE FUERAS DE MI - K-PAZ DE LA SIERRA.mp3 --- 3.03 --- 0.0033886719
-La Tropa Loca - Engaño.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- La Tropa Loca - Engaño.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Es Cosa de Hombres.mp3 --- 3.06 --- 0.002734375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 09  te vas te vas.mp3 --- 4.11 --- 0.0036816406
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 09 una lagrima.wma --- 2.93 --- 0.0026464844
-Los Mitos - Luces.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Los Mitos - Luces.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Raul Vale - Eres Toda Una Mujer.mp3 --- 3.14 --- 0.0028125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- roberto carlos - LA MONTAÑA.mp3 --- 3.82 --- 0.0014941406
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Manantial - Sereno.mp3 --- 4.15 --- 0.0037109375
@@ -1908,7 +1908,7 @@ Los Mitos - Luces.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- NOELIA.mp3 --- 3.16 --- 0.0035351563
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 01  limon limonero.mp3 --- 3.1 --- 0.0027734375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 20  no son palabritas.mp3 --- 3.84 --- 0.0034375
-Los Golpes - Olvidarte Nunca.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Los Golpes - Olvidarte Nunca.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 04  te quiero aunque no eres mia.mp3 --- 3.19 --- 0.0028613281
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- raphael- yo soy aquel.mp3 --- 2.6 --- 0.0023242187
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 15  te quise te quiero y te querre.mp3 --- 3.82 --- 0.0034179688
@@ -1932,7 +1932,7 @@ Los Golpes - Olvidarte Nunca.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Hernaldo - Procuro Olvidarte.mp3 --- 4.41 --- 0.0039453125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 17  pequena y fragil.mp3 --- 4.0 --- 0.0035839844
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 02  virgen negra.mp3 --- 3.2 --- 0.0028710937
-Mario Quintero - No Mas Contigo.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Mario Quintero - No Mas Contigo.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 05 Aliado del tiempo - Mariano Barba.mp3 --- 4.47 --- 0.0039941406
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Los Terricolas- Una Carta.mp3 --- 3.34 --- 0.0029785156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- llore.mp3 --- 4.1 --- 0.003671875
@@ -1972,7 +1972,7 @@ Mario Quintero - No Mas Contigo.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 05 Pista 5.mp3 --- 3.41 --- 0.003046875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 05  celoso.mp3 --- 2.83 --- 0.0025292969
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- POR UNA MUJER BONITA.mp3 --- 2.76 --- 0.0024707031
-Los Pulpos - Lo Que Te Queda.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Los Pulpos - Lo Que Te Queda.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 02 A A ESA.MP3 --- 2.92 --- 0.0026171875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Los Galos..Amor Amor.mp3 --- 3.27 --- 0.0029199219
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- MI PLEGARIA.mp3 --- 3.31 --- 0.0037011719
@@ -2009,9 +2009,9 @@ Los Pulpos - Lo Que Te Queda.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 02 AY AMORES QUE MATAN.MP3 --- 3.15 --- 0.0028125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Galy Galiano - Miedo Del Olvido.mp3 --- 3.41 --- 0.0030566406
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 0001 VARIOS - UNA LAGRIMA  ESTELA NUÑEZ.mp3 --- 3.92 --- 0.0035058594
-Los Brios - De Muchas Cosas Tengo Miedo.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Los Brios - De Muchas Cosas Tengo Miedo.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Mori.mp3 --- 3.56 --- 0.0031835937
-Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- Sin el.mp3 --- 3.61 --- 0.00484375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- 01 AEL CARIÑO ES COMO UNA FLOR.mp3 --- 4.24 --- 0.0037988281
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Recuerdo --- La tragedia - Vicente Fernandez.mp3 --- 3.78 --- 0.0033789062
@@ -2059,7 +2059,7 @@ Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- T-2826388-Rigo Tovar y su Costa Azul - Asi soy yo.mp3 --- 0.71 --- 0.0004785156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- 03 Antifaz.mp3 --- 2.44 --- 0.00328125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- El Mil Amores.mp3 --- 3.01 --- 0.0026953125
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- Cleyver.wma --- 12.71 --- 0.0054589844 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- Cleyver.wma --- 12.71 --- 0.0054589844 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- RIO REVELDE.mp3 --- 3.49 --- 0.003125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- Rigo tovar - Por Mal Camino.mp3 --- 2.17 --- 0.0014550781
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- 15 Quinto Patio.mp3 --- 2.84 --- 0.0031835937
@@ -2076,7 +2076,7 @@ Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- 04-todo hubiera dado.mp3 --- 3.57 --- 0.0031933594
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- Carro De Fuego.mp3 --- 4.5 --- 0.0040234375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- 05 maria luisa.mp3 --- 2.69 --- 0.0024121094
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- 13 Popurri Rigo Tovas - Cleyver.wma --- 12.71 --- 0.0054589844 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- 13 Popurri Rigo Tovas - Cleyver.wma --- 12.71 --- 0.0054589844 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- Los adolescentes-me gusta.mp3 --- 4.27 --- 0.0047753906
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- Rigo Tovar Y Su Costa Azul - La Hierba Se Movia.mp3 --- 3.42 --- 0.0030566406
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- 14 el pajaro chogui.mp3 --- 2.65 --- 0.0023730469
@@ -2086,7 +2086,7 @@ Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- Paloma Mensajera.mp3 --- 3.25 --- 0.0021875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- rigo tovar y su costa azul - el timbalero.mp3 --- 3.22 --- 0.0028808594
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- Antifaz.mp3 --- 2.44 --- 0.00328125
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- Merengue.mp3 --- 10.62 --- 0.018984375 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- Merengue.mp3 --- 10.62 --- 0.018984375 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- 19 - AMOR LIBRE.mp3 --- 2.83 --- 0.0019042969
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- Olvido.mp3 --- 2.67 --- 0.0023828125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Rigo Tovar --- 07 Guayacán Dominicano (Compadre Ped.mp3 --- 6.61 --- 0.0073925781
@@ -2208,14 +2208,14 @@ Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/afro cuban jazz - cachao - cuba linda (2004)by efed/agustin lara discografia/AGUSTIN LARA LA MUSICA DEL INMORTAL --- Enamorada.mp3 --- 2.07 --- 0.0018554687
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/afro cuban jazz - cachao - cuba linda (2004)by efed/agustin lara discografia/AGUSTIN LARA LA MUSICA DEL INMORTAL --- Sola mente una vez.mp3 --- 2.83 --- 0.0025390625
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- 13 años.mp3 --- 2.93 --- 0.0026269531
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- Mezclas Merengue Viejo (2).mp3 --- 30.88 --- 0.0345117188 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- Mezclas Merengue Viejo (2).mp3 --- 30.88 --- 0.0345117188 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- el loco y la luna.mp3 --- 4.75 --- 0.0106152344
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- wilfrido vargas - el loco y la luna.mp3 --- 4.86 --- 0.0043457031
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- Popurri wilfrido.mp3 --- 5.62 --- 0.0075390625
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- sergio vargas-volveré.mp3 --- 4.33 --- 0.0038769531
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- 01 he vuelto a los lugares.mp3 --- 4.09 --- 0.0045800781
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- 06 popurri wilfrido.mp3 --- 5.62 --- 0.0075390625
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- 01 mezclas merengue viejo307.mp3 --- 30.88 --- 0.0345117188 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- 01 mezclas merengue viejo307.mp3 --- 30.88 --- 0.0345117188 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- la quiero a morir.mp3 --- 5.03 --- 0.0045019531
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- wilfrido vargas_ bachata merengue.mp3 --- 4.69 --- 0.0062890625
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- que siga amandote.mp3 --- 4.67 --- 0.00421875
@@ -2225,7 +2225,7 @@ Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- copia de ismael rivera - el pajaro chogui.mp3 --- 4.46 --- 0.003984375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- alex bueno - merengues clasicos - que cara mas bonita429.mp3 --- 4.96 --- 0.0055371094
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- dmlh.mp3 --- 4.47 --- 0.0040039062
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- Mezclas Merengue Viejo.mp3 --- 30.88 --- 0.0345117188 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- Mezclas Merengue Viejo.mp3 --- 30.88 --- 0.0345117188 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- La medicina.mp3 --- 5.17 --- 0.0046484375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- wilfrido vargas.mp3 --- 5.17 --- 0.0046289063
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Wilfrido Vargas --- wilfrido vargas - el negro africano.mp3 --- 4.49 --- 0.0040332031
@@ -2862,7 +2862,7 @@ Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/04 - Antonio Machado (1973) --- 04. LAS MOSCAS.MP3 --- 2.33 --- 0.0020800781
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/04 - Antonio Machado (1973) --- 08. ESPANOLITO.MP3 --- 1.26 --- 0.0011230469
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/04 - Antonio Machado (1973) --- 07. DEL PASADO EFIMERO.MP3 --- 3.69 --- 0.0032910156
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/04 - Antonio Machado (1973) --- 10. HE ANDADO MUCHOS CAMINOS.MP3 --- 40.23 --- 0.0004199219 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/04 - Antonio Machado (1973) --- 10. HE ANDADO MUCHOS CAMINOS.MP3 --- 40.23 --- 0.0004199219 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/04 - Antonio Machado (1973) --- 12. PARABOLA.MP3 --- 2.23 --- 0.0019921875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/04 - Antonio Machado (1973) --- 09. A UN OLMO SECO.MP3 --- 2.82 --- 0.0025097656
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/04 - Antonio Machado (1973) --- 06. LA SAETA.MP3 --- 2.31 --- 0.0020703125
@@ -2920,9 +2920,9 @@ Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/07 - 1978 --- 08. HISTORIA CONOCIDA.MP3 --- 2.48 --- 0.0022167969
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/07 - 1978 --- 06. TORDOS Y CARACOLES.MP3 --- 3.71 --- 0.0033007812
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/07 - 1978 --- 01. CIUDADANO.MP3 --- 2.55 --- 0.0022753906
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/18 - Narrador (1997) --- 01 - Liliana.mp3 --- 23.35 --- 0.0208789062 --- File moved
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/18 - Narrador (1997) --- 02 - Historia De Babar.mp3 --- 27.67 --- 0.0247363281 --- File moved
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/18 - Narrador (1997) --- 03 - Viaje A La Luna.mp3 --- 17.25 --- 0.0154199219 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/18 - Narrador (1997) --- 01 - Liliana.mp3 --- 23.35 --- 0.0208789062 --- FILE MOVED
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/18 - Narrador (1997) --- 02 - Historia De Babar.mp3 --- 27.67 --- 0.0247363281 --- FILE MOVED
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Joan Manuel Serrat - Discografia/18 - Narrador (1997) --- 03 - Viaje A La Luna.mp3 --- 17.25 --- 0.0154199219 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Miguel Bose - (Discografia 24 Cds)/2005 Velvetina --- 07 De la mano de Dios.mp3 --- 4.04 --- 0.0054199219
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Miguel Bose - (Discografia 24 Cds)/2005 Velvetina --- 14 Ella dIjo no (remix).mp3 --- 7.82 --- 0.0104882813
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Miguel Bose - (Discografia 24 Cds)/2005 Velvetina --- 01 Ójala ojalá.mp3 --- 4.72 --- 0.0063378906
@@ -4079,7 +4079,7 @@ Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA HASTA SIEMPREwmv[1].mp3 --- 3.38 --- 0.0045410156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA PIEL CANELA (1953)wmv[1].mp3 --- 3.15 --- 0.0042285156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA 'DIOS NO LO QUIERA' (HF)[1].mp3 --- 3.42 --- 0.0045800781
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA con TRÍO LOS PEREGRINOS en 6 canciones[1].mp3 --- 18.55 --- 0.0248828125 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA con TRÍO LOS PEREGRINOS en 6 canciones[1].mp3 --- 18.55 --- 0.0248828125 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA LA NOCHERA.mp3 --- 3.08 --- 0.0041210937
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA 'ESCLAVO DE TU PIEL'[1].mp3 --- 3.15 --- 0.0042285156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA le canta a RITA HAYWORTH, UNA SEMANA SIN TIwmv[1].mp3 --- 2.92 --- 0.0039160156
@@ -4101,7 +4101,7 @@ Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA Y LOS TRES CABALLEROS DESVELO DE AMOR.mp3 --- 3.38 --- 0.00453125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- Lucho Gatica y los Cuatro Soles En mi soledadwmv.mp3 --- 2.91 --- 0.0038964844
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA   AMOR MIO  78rpm  ( Gradiente Garrard s95).mp3 --- 2.87 --- 0.0038476562
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA en cuatro temas difíciles de hallar por fin encontrados[1].mp3 --- 11.55 --- 0.0154882812 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA en cuatro temas difíciles de hallar por fin encontrados[1].mp3 --- 11.55 --- 0.0154882812 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- Lucho Gatica  Con Vicente Bianchi Y Su Orquesta   Esclavo De Tu Piel.mp3 --- 3.14 --- 0.0042089844
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA QUIEREME.mp3 --- 2.89 --- 0.0038867187
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA OBSESIÓN (ANGELINA JOLIE)[1].mp3 --- 2.92 --- 0.0039160156
@@ -4116,7 +4116,7 @@ Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA POR QUÉ ERES ASÍwmv[1].mp3 --- 2.8 --- 0.0037597656
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA TE QUIERO ASÍwmv[1].mp3 --- 3.38 --- 0.0045410156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA ESCUCHAwmv[1].mp3 --- 3.15 --- 0.0042285156
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- MUJERES DE ENSUEÑO Desvelo 22 Canta LUCHO GATICA[1].mp3 --- 22.17 --- 0.0297265625 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- MUJERES DE ENSUEÑO Desvelo 22 Canta LUCHO GATICA[1].mp3 --- 22.17 --- 0.0297265625 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- Lucho Gatica   Y (cancion del compositor dominicano Mario de Jesus).mp3 --- 2.66 --- 0.0035742188
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA ESCRIBEME CAROLINA MESTROVICwmv[1].mp3 --- 2.92 --- 0.0039160156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA NO NIEGUES QUE ME QUISISTEwmv[1].mp3 --- 3.15 --- 0.0042285156
@@ -4128,7 +4128,7 @@ Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA LE CANTA A NORMA JEAN BAKER, SERENATA (1950)wmv[1].mp3 --- 3.15 --- 0.0042285156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA  VIDA MÍA[1].mp3 --- 3.52 --- 0.0047167969
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- Lucho Gatica    Miénteme (Bolero) (VintageMusices).mp3 --- 2.77 --- 0.0037109375
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA  BLUE MOON, IF I LOVE, ONCE IN A DREAM and MEXICALY ROSE[1].mp3 --- 10.5 --- 0.0140820312 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA  BLUE MOON, IF I LOVE, ONCE IN A DREAM and MEXICALY ROSE[1].mp3 --- 10.5 --- 0.0140820312 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA 'QUÉ DIVINO'[1].mp3 --- 2.92 --- 0.0039160156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- SELENA GÓMEZ, LUCHO GATICA canta para ti[1].mp3 --- 2.68 --- 0.0036035156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA IF I LOVEwmv[1].mp3 --- 3.03 --- 0.0040722656
@@ -4137,7 +4137,7 @@ Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA YA NO ME QUIERES.mp3 --- 3.27 --- 0.0043847656
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA 'EL SAMBA ME LLAMA'[1].mp3 --- 2.51 --- 0.003359375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA EN PERSONA 'NO ME PLATIQUES'.mp3 --- 1.74 --- 0.0023339844
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA en cuatro canciones con Don Roy[1].mp3 --- 11.78 --- 0.0158007812 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA en cuatro canciones con Don Roy[1].mp3 --- 11.78 --- 0.0158007812 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- Lucho Gatica   Enamorado de ti   Colección Lujomar.mp3 --- 3.48 --- 0.0046679688
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA AHÍ VA[1].mp3 --- 2.45 --- 0.00328125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA 'LA PUERTA' Canción de Luis Demetrio[1].mp3 --- 3.38 --- 0.0045410156
@@ -4169,12 +4169,12 @@ Los Cuatro Soles - Nunca Mas Podre Olvidarte.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA   NO TIENE SOLUCION (Nenhuma solução).mp3 --- 3.06 --- 0.0041015625
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA 'NO ME PLATIQUES'.mp3 --- 1.94 --- 0.0025976563
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- Lucho Gatica   Sufre Mas.mp3 --- 2.83 --- 0.0037988281
-'DIOS NO LO QUIERA' LUCHO GATICA (Mejor sonido)[1].mp3 -- ERROR DE ARCHIVO 
-MARILYN MONROE, LUCHO  GATICA CANTA PARA TI (2)[1].mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- 'DIOS NO LO QUIERA' LUCHO GATICA (Mejor sonido)[1].mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- MARILYN MONROE, LUCHO  GATICA CANTA PARA TI (2)[1].mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA Y LOS TRES CABALLEROS CONSENTIDA.mp3 --- 3.14 --- 0.00421875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA A UNOS OJOS.mp3 --- 2.34 --- 0.0031347656
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- Lucho Gatica    Quédate Conmigo (Bolero) (VintageMusices).mp3 --- 3.03 --- 0.0040722656
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- MUJERES DE ENSUEÑO de los años cincuenta 10 LUCHO GATICA[1].mp3 --- 22.75 --- 0.0305078125 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- MUJERES DE ENSUEÑO de los años cincuenta 10 LUCHO GATICA[1].mp3 --- 22.75 --- 0.0305078125 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LA VOLVÍ A ENCONTRAR  LUCHO GATICA[1].mp3 --- 3.15 --- 0.0042285156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA AUNQUE TÚ NO ME QUIERAS[1].mp3 --- 3.27 --- 0.0043847656
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA le canta a ANGELINA JOLIE, SOY TUYOwmv[1].mp3 --- 3.27 --- 0.0043847656
@@ -4185,7 +4185,7 @@ MARILYN MONROE, LUCHO  GATICA CANTA PARA TI (2)[1].mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA NO SÉ QUE PASA CONMIGOwmv[1].mp3 --- 2.45 --- 0.0032910156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA con TRÍO LOS PEREGRINOS AMOR SECRETOwmv[1].mp3 --- 3.38 --- 0.0045410156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA 'EL SAMBA ME LLAMA',[1].mp3 --- 2.57 --- 0.0034472656
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- Lucho Gatica y el folklore argentino (1973).mp3 --- 30.64 --- 0.04109375 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- Lucho Gatica y el folklore argentino (1973).mp3 --- 30.64 --- 0.04109375 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA PROHIBIDO Con la Orquesta de Vicente Bianchiwmv[1].mp3 --- 2.8 --- 0.0037597656
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA TRÁTAME CON CARIÑOwmv[1].mp3 --- 3.15 --- 0.0042285156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA 'EXQUISITO'[1].mp3 --- 2.45 --- 0.0032910156
@@ -4205,7 +4205,7 @@ MARILYN MONROE, LUCHO  GATICA CANTA PARA TI (2)[1].mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA TÚ PENSARÁS EN MÍ[1].mp3 --- 3.27 --- 0.0043847656
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- Lucho Gatica Nadie Me Ama.mp3 --- 3.48 --- 0.0046679688
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- LUCHO GATICA ASI ES MI SUERTE.mp3 --- 3.65 --- 0.0049023437
-CONCIERTO DE OTOÑO LUCHO GATICAwmv[1].mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- CONCIERTO DE OTOÑO LUCHO GATICAwmv[1].mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica --- Lucho Gatica 'La barca'.mp3 --- 3.45 --- 0.0046289063
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica/El Reloj --- 04 Exodo.mp3 --- 3.56 --- 0.0031835937
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Lucho Gatica/El Reloj --- 10 Moliendo cafe.mp3 --- 2.74 --- 0.0024609375
@@ -4340,7 +4340,7 @@ CONCIERTO DE OTOÑO LUCHO GATICAwmv[1].mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- (daniel santos)hola soledad199.mp3 --- 2.3 --- 0.0020800781
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- 12 TRISTEZA MARINA.mp3 --- 2.82 --- 0.0025195313
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- 04 EL MAMBO ES UNIVERSAL.mp3 --- 2.98 --- 0.0026660156
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- La Sonora Matancera   Boleros de Oro Vol 1.mp3 --- 19.87 --- 0.026640625 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- La Sonora Matancera   Boleros de Oro Vol 1.mp3 --- 19.87 --- 0.026640625 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- 06 EN LA ORILLA DEL MAR.mp3 --- 3.1 --- 0.0027832031
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- 04 En la palma de la mano.mp3 --- 2.93 --- 0.0039355469
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- Daniel Santos - El juego de la vida (sonora matancera).mp3 --- 3.0 --- 0.0026855469
@@ -4352,7 +4352,7 @@ CONCIERTO DE OTOÑO LUCHO GATICAwmv[1].mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- La Sonora Matancera - Vereda tropical.mp3 --- 3.48 --- 0.0031152344
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- Bienvenido Granda - Todo me gusta de ti.mp3 --- 2.74 --- 0.0024609375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- Daniel Santos & Sonora Matancera - Lamento borincano.mp3 --- 5.19 --- 0.0046484375
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- 'La Sonora Matancera de Cuba' con Grandes Cantantes del Recuerdo Tropical.mp3 --- 19.95 --- 0.0267578125 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- 'La Sonora Matancera de Cuba' con Grandes Cantantes del Recuerdo Tropical.mp3 --- 19.95 --- 0.0267578125 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- 07 LOS ARETES DE LA LUNA.mp3 --- 2.37 --- 0.0021191406
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- la sonora matancera y leo marini - dos almas.mp3 --- 2.43 --- 0.0043457031
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- Leo Marini y La Sonora Matancera - Dos almas.mp3 --- 2.43 --- 0.0043457031
@@ -4363,7 +4363,7 @@ CONCIERTO DE OTOÑO LUCHO GATICAwmv[1].mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- la sonora santanera - el bodeguero.mp3 --- 3.12 --- 0.0034863281
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- Leo Marini y La Sonora Matancera - Vereda tropical.mp3 --- 2.85 --- 0.0025585938
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- 06 Y Me Quede Sin Ti.wma --- 2.48 --- 0.0022363281
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- La Sonora Matancera   Boleros de Oro Vol 1[1].mp3 --- 19.87 --- 0.026640625 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- La Sonora Matancera   Boleros de Oro Vol 1[1].mp3 --- 19.87 --- 0.026640625 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- la sonora matancera & leo marini - vereda tropical.mp3 --- 2.85 --- 0.0025585938
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- 14 Fruto Robado.wma --- 2.87 --- 0.0025878906
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/La Sonora Matancera --- 08 Botecito De Vela.wma --- 3.01 --- 0.0027148437
@@ -4391,7 +4391,7 @@ CONCIERTO DE OTOÑO LUCHO GATICAwmv[1].mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Merengues 2003 Vol.3 --- 03. Besame tu boca.mp3 --- 3.63 --- 0.0048730469
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Merengues 2003 Vol.3 --- 05. Ahora vete.mp3 --- 4.76 --- 0.0063867188
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Merengues 2003 Vol.3 --- 09. Rapidito.mp3 --- 3.9 --- 0.0052246094
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/LEO DAN - Antologia Musical --- mary.mp3 --- 13.34 --- 0.0119238281 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/LEO DAN - Antologia Musical --- mary.mp3 --- 13.34 --- 0.0119238281 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/LEO DAN - Antologia Musical --- Las horas mas lindas.mp3 --- 3.7 --- 0.0033105469
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/LEO DAN - Antologia Musical --- con nadie me compares.mp3 --- 2.1 --- 0.001875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/LEO DAN - Antologia Musical --- ESTA COBARDIA.mp3 --- 3.6 --- 0.0032324219
@@ -5544,7 +5544,7 @@ CONCIERTO DE OTOÑO LUCHO GATICAwmv[1].mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Industria del Amor --- Industria del Amor - 19.Amor de pobre.mp3 --- 2.32 --- 0.0018164063
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Industria del Amor --- 14. Solo Contigo - Industria del Amor.mp3 --- 3.45 --- 0.0026953125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Cheo Feliciano (Genero_ Salsa) --- Estampa Marina.mp3 --- 5.47 --- 0.0048925781
-El Raton.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Cheo Feliciano (Genero_ Salsa) --- El Raton.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Cheo Feliciano (Genero_ Salsa) --- Inodoro  Perez.mp3 --- 5.37 --- 0.0048046875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Cheo Feliciano (Genero_ Salsa) --- Inolvidable.mp3 --- 3.25 --- 0.0029003906
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Cheo Feliciano (Genero_ Salsa) --- Amada.mp3 --- 4.72 --- 0.0042285156
@@ -5968,7 +5968,7 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/gilberto santarosa (Genero_ Salsa)/Discografia/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall CD2 --- 03 Perdoname.mp3 --- 7.92 --- 0.0147949219
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/gilberto santarosa (Genero_ Salsa)/Discografia/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall CD2 --- 04 Amanecer Borincano.mp3 --- 7.41 --- 0.0138964844
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/gilberto santarosa (Genero_ Salsa)/Discografia/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall CD2 --- 01 Dime Porque.mp3 --- 3.58 --- 0.0070410156
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/gilberto santarosa (Genero_ Salsa)/Discografia/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall CD1 --- 07 Cantante de Cartel.mp3 --- 12.78 --- 0.0234863281 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/gilberto santarosa (Genero_ Salsa)/Discografia/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall CD1 --- 07 Cantante de Cartel.mp3 --- 12.78 --- 0.0234863281 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/gilberto santarosa (Genero_ Salsa)/Discografia/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall CD1 --- 01 Obertura.mp3 --- 4.17 --- 0.0080957031
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/gilberto santarosa (Genero_ Salsa)/Discografia/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall CD1 --- 05 Quien Lo Diria.mp3 --- 8.37 --- 0.0156152344
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/gilberto santarosa (Genero_ Salsa)/Discografia/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall/Gilberto Santa Rosa 1995 - En Vivo Desde El Carnegie Hall CD1 --- 06 Sin Voluntad.mp3 --- 5.65 --- 0.0107421875
@@ -6121,7 +6121,7 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/eros ramazzoti 8 cd's (español)/02 Eros Ramazzotti - Musica es (1988) --- 05 Eros Ramazzoti - Por ti me casare.mp3 --- 4.07 --- 0.0036328125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/eros ramazzoti 8 cd's (español)/02 Eros Ramazzotti - Musica es (1988) --- 06 Eros Ramazzoti - Y me rebelo.mp3 --- 4.41 --- 0.0029589844
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/eros ramazzoti 8 cd's (español)/02 Eros Ramazzotti - Musica es (1988) --- 03 Eros Ramazzoti - Somos de hoy.mp3 --- 3.88 --- 0.0034667969
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/eros ramazzoti 8 cd's (español)/02 Eros Ramazzotti - Musica es (1988) --- 01 Eros Ramazzoti - Musica es.mp3 --- 11.0 --- 0.0098339844 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/eros ramazzoti 8 cd's (español)/02 Eros Ramazzotti - Musica es (1988) --- 01 Eros Ramazzoti - Musica es.mp3 --- 11.0 --- 0.0098339844 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/eros ramazzoti 8 cd's (español)/02 Eros Ramazzotti - Musica es (1988) --- 04 Eros Ramazzoti - Completamente enamorados.mp3 --- 4.16 --- 0.0032519531
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/eros ramazzoti 8 cd's (español)/02 Eros Ramazzotti - Musica es (1988) --- 02 Eros Ramazzoti - Asi son los amigos.mp3 --- 3.92 --- 0.0034960938
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/eros ramazzoti 8 cd's (español)/04 Eros Ramazzotti - Todo historias (1993) --- 06 Eros Ramazzoti - Un fuerte no.mp3 --- 5.62 --- 0.0050292969
@@ -6590,7 +6590,7 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/Lo Cortez No Quita Lo Cabral --- Alberto Cortez Y Facundo Cabral - Distancia.mp3 --- 4.07 --- 0.0054492188
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/Lo Cortez No Quita Lo Cabral --- Alberto Cortez Y Facundo Cabral - Yo No Quiero Llamarme Como Me Llamo.mp3 --- 3.23 --- 0.0043261719
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/Lo Cortez No Quita Lo Cabral --- Alberto Cortez Y Facundo Cabral - Está La Puerta Abierta.mp3 --- 3.17 --- 0.0042480469
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/Lo Cortez No Quita Lo Cabral --- Alberto Cortez Y Facundo Cabral - Dialogo 3.mp3 --- 10.83 --- 0.0145214844 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/Lo Cortez No Quita Lo Cabral --- Alberto Cortez Y Facundo Cabral - Dialogo 3.mp3 --- 10.83 --- 0.0145214844 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/Lo Cortez No Quita Lo Cabral --- Alberto Cortez Y Facundo Cabral - Dialogo 4.mp3 --- 1.65 --- 0.0022167969
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/Lo Cortez No Quita Lo Cabral --- Alberto Cortez Y Facundo Cabral - Cuando Un Amigo Se Va.mp3 --- 5.67 --- 0.0076074219
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/Lo Cortez No Quita Lo Cabral --- Alberto Cortez Y Facundo Cabral - Yo Quiero Ser Bombero.mp3 --- 5.86 --- 0.0078613281
@@ -6606,7 +6606,7 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/Alberto Cortez  Soy Un Charlatan de Feria --- Que Suerte He Tenido de Nacer.mp3 --- 3.69 --- 0.0033007812
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/Alberto Cortez  Soy Un Charlatan de Feria --- Pajarita de papel.mp3 --- 3.76 --- 0.0050488281
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/Alberto Cortez  Soy Un Charlatan de Feria --- Pueblo.mp3 --- 4.96 --- 0.0066699219
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/alberto cortez facundo cabral --- facundo cabral - entre dios y el diablo.mp3 --- 93.01 --- 0.0831640625 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/alberto cortez facundo cabral --- facundo cabral - entre dios y el diablo.mp3 --- 93.01 --- 0.0831640625 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/alberto cortez facundo cabral --- alberto cortez - como no creer en dios.mp3 --- 3.42 --- 0.0030566406
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/alberto cortez facundo cabral --- alberto cortez - facundo cabral - lo cortez no quita lo cabral.mp3 --- 6.03 --- 0.0067480469
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/alberto cortez facundo cabral --- alberto cortez - facundo cabral - los ejes de mi carreta.mp3 --- 3.88 --- 0.0034667969
@@ -6625,7 +6625,7 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/alberto cortez facundo cabral --- alberto cortez - facundo cabral - equipaje.mp3 --- 4.96 --- 0.0066503906
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/alberto cortez facundo cabral --- alberto cortes - dialogo con dios.mp3 --- 1.73 --- 0.0015429688
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/alberto cortez facundo cabral --- facundo cabral - pobrecito mi patrón.mp3 --- 6.64 --- 0.00890625
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/alberto cortez facundo cabral --- facundo cabral - no estas deprimido estas distraido.mp3 --- 53.51 --- 0.0478417969 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/alberto cortez facundo cabral --- facundo cabral - no estas deprimido estas distraido.mp3 --- 53.51 --- 0.0478417969 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Alberto Cortez/alberto cortez facundo cabral --- alberto cortéz - facundo cabral - no soy de aqui.mp3 --- 5.34 --- 0.0047753906
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Sonora Tropicana(Cumbias Caliente) --- 17 Pista 17.mp3 --- 4.33 --- 0.0077539063
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Sonora Tropicana(Cumbias Caliente) --- 12 San Pascual Ballon.mp3 --- 3.83 --- 0.0068457031
@@ -6870,8 +6870,8 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Los Galos/Los Galos --- 19 - Soy Palomo Herido.wma --- 2.38 --- 0.0032226562
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Los Galos/Los Galos --- 11 - Como Te Dire.wma --- 2.47 --- 0.0033398437
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/VIRGINIA LOPEZ LA VOZ DE LA TERNURA/VIRGINIA LOPEZ LA VOZ DE LA TERNURA - A --- Verda amarga.mp3 --- 7.03 --- 0.0062890625
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/VIRGINIA LOPEZ LA VOZ DE LA TERNURA/VIRGINIA LOPEZ LA VOZ DE LA TERNURA - A --- Acuerdate de mi.mp3 --- 15.66 --- 0.0140039062 --- File moved
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/VIRGINIA LOPEZ LA VOZ DE LA TERNURA/VIRGINIA LOPEZ LA VOZ DE LA TERNURA - A --- Celoso , Te lo prohibo.mp3 --- 16.67 --- 0.0149023437 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/VIRGINIA LOPEZ LA VOZ DE LA TERNURA/VIRGINIA LOPEZ LA VOZ DE LA TERNURA - A --- Acuerdate de mi.mp3 --- 15.66 --- 0.0140039062 --- FILE MOVED
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/VIRGINIA LOPEZ LA VOZ DE LA TERNURA/VIRGINIA LOPEZ LA VOZ DE LA TERNURA - A --- Celoso , Te lo prohibo.mp3 --- 16.67 --- 0.0149023437 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/VIRGINIA LOPEZ LA VOZ DE LA TERNURA/VIRGINIA LOPEZ LA VOZ DE LA TERNURA - A --- Congoja.mp3 --- 8.98 --- 0.0080273438
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/VIRGINIA LOPEZ LA VOZ DE LA TERNURA/VIRGINIA LOPEZ LA VOZ DE LA TERNURA - A --- Diario de mi vida.mp3 --- 7.93 --- 0.0070996094
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/VIRGINIA LOPEZ LA VOZ DE LA TERNURA/VIRGINIA LOPEZ LA VOZ DE LA TERNURA - B --- La vida es un sueño.mp3 --- 4.58 --- 0.0061523437
@@ -7065,7 +7065,7 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- dimension latina oscar de leon - la piragua35028.mp3 --- 2.95 --- 0.0026367188
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- el frutero - oscar de leon y la dimencion latina (duo con wladimir) - copia.mp3 --- 3.98 --- 0.0053417969
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- oscar de leon - que bueno baila usted salsa.mp3 --- 3.66 --- 0.0032714844
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- oscar de leon - salsa caraqueña.mp3 --- 14.49 --- 0.0129492187 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- oscar de leon - salsa caraqueña.mp3 --- 14.49 --- 0.0129492187 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- 15 el derecho de nacer.mp3 --- 4.83 --- 0.0108105469
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- orquesta guayacan - no le pegue la negra - (salsa); m b.mp3 --- 6.42 --- 0.0057421875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- dimension latina y oscar d' leon - maria.mp3 --- 6.14 --- 0.0137207031
@@ -7094,7 +7094,7 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- juliana.mp3 --- 4.41 --- 0.0039453125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- 11-ven morena.mp3 --- 5.19 --- 0.0046484375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- 01 melao de caña.mp3 --- 5.36 --- 0.0119726562
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- mezcla salsa brava 5(2).mp3 --- 30.09 --- 0.0538085938 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- mezcla salsa brava 5(2).mp3 --- 30.09 --- 0.0538085938 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- 15 oscar de leon juanita morell.mp3 --- 5.38 --- 0.0084179687
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- latino - oscar de leon - mi negra esta cansa342.mp3 --- 4.56 --- 0.0040722656
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- (la billos caracas boys y oscar de leon) ariel345.mp3 --- 4.29 --- 0.0038378906
@@ -7110,14 +7110,14 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- oscar de leon - eres tan bonita pero mentirosa.mp3 --- 7.14 --- 0.0063867188
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- gilberto santarosa - mix de salsas viejas.mp3 --- 4.45 --- 0.003984375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- oscar de leon - yo quiero que tu vuelvas a mi(2)441 - copia.mp3 --- 4.22 --- 0.0037695312
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- 03_oscar de leon - salsa mix.mp3 --- 10.76 --- 0.0096191406 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- 03_oscar de leon - salsa mix.mp3 --- 10.76 --- 0.0096191406 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- jorge celedon & oscar de leon - el param pan pan.mp3 --- 3.75 --- 0.0084960937
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- oscar de leon-sacala472(2) - copia.mp3 --- 4.75 --- 0.0045019531
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- oscar de leon - hechicera.mp3 --- 5.01 --- 0.0044824219
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- 08-un novio se solicita177 - copia.mp3 --- 5.75 --- 0.0051464844
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- oscar de leon - el gran combo - lloraras.mp3 --- 3.85 --- 0.0034472656
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- 04 - dolor cobarde.mp3 --- 4.41 --- 0.0059179687
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- tito rojas, eddie santiago & oscar de leon - salsa mix321.mp3 --- 20.6 --- 0.0184179687 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- tito rojas, eddie santiago & oscar de leon - salsa mix321.mp3 --- 20.6 --- 0.0184179687 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- 12-oscar de leon - mi bajo y yo(3).mp3 --- 5.06 --- 0.0045214844
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- fotos importadas 000368.mp3 --- 3.33 --- 0.0074414063
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- (oscar de leon)_ni frio ni calor359.mp3 --- 3.9 --- 0.0087207031
@@ -7147,8 +7147,8 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- la india & oscar de leon - hazme el amor183.mp3 --- 4.69 --- 0.0041894531
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- oscar de leon-idilio.mp3 --- 5.18 --- 0.006953125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- oscar de leon-04 el manicero230.mp3 --- 4.77 --- 0.0042675781
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- 01 salsa mix vieja larga.mp3 --- 30.09 --- 0.0538085938 --- File moved
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- tito rojas, eddie santiago & oscar de leon - salsa mix(2).mp3 --- 20.6 --- 0.0184179687 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- 01 salsa mix vieja larga.mp3 --- 30.09 --- 0.0538085938 --- FILE MOVED
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- tito rojas, eddie santiago & oscar de leon - salsa mix(2).mp3 --- 20.6 --- 0.0184179687 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- 13 ciego de amor(2).mp3 --- 5.89 --- 0.0131738281
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- alma llanera el pollo brito con oscar de leon.mp3 --- 4.0 --- 0.0035839844
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/OSCAR DE LEON --- ruben blades - oscar d leon - mix de salsa vieja.mp3 --- 7.14 --- 0.0063867188
@@ -7192,7 +7192,7 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Ricardo Arjona/discografia/Ricardo Arjona - Vivo (1999) --- 05 Realmente no estoy tan solo.mp3 --- 3.53 --- 0.0031542969
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Ricardo Arjona/discografia/Ricardo Arjona - Vivo (1999) --- 09 Desde la calle 33.mp3 --- 4.17 --- 0.0037304687
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Ricardo Arjona/discografia/Ricardo Arjona - Vivo (1999) --- 10 Tarde (Sin daños a terceros).mp3 --- 4.51 --- 0.0040429687
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Ricardo Arjona/discografia/Ricardo Arjona - Vivo (1999) --- 02 Ella y el-Historia de taxi.mp3 --- 12.54 --- 0.0112109375 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Ricardo Arjona/discografia/Ricardo Arjona - Vivo (1999) --- 02 Ella y el-Historia de taxi.mp3 --- 12.54 --- 0.0112109375 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Ricardo Arjona/discografia/Ricardo Arjona - Vivo (1999) --- 15 Dime que no.mp3 --- 4.14 --- 0.0037109375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Ricardo Arjona/discografia/Ricardo Arjona - Vivo (1999) --- 13 .mp3 --- 4.11 --- 0.003671875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Ricardo Arjona/discografia/Ricardo Arjona - Vivo (1999) --- 01 Aqui Estoy.mp3 --- 4.55 --- 0.0040722656
@@ -7303,7 +7303,7 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Los Caminantes --- 2. Entre Mas Lejos me Valla - -.mp3 --- 2.95 --- 0.0023144531
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Los Caminantes --- 21. Vuelve Paloma - -.mp3 --- 3.28 --- 0.0025683594
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 10 aguanten la trucha.mp3 --- 4.1 --- 0.0036621094
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 2 - popurri n° 2 cumbias71.mp3 --- 12.31 --- 0.0110058594 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 2 - popurri n° 2 cumbias71.mp3 --- 12.31 --- 0.0110058594 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 08 Los Wawanco - Pajarito mañanero.mp3 --- 3.02 --- 0.0027050781
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 13 Banda Cerritos - 2 de te.mp3 --- 2.73 --- 0.0048828125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- Mike Laure - Los velorios.mp3 --- 5.8 --- 0.0051855469
@@ -7327,7 +7327,7 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- internacional pacifico - te caiste mujer.mp3 --- 5.48 --- 0.0049023437
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 09 Sonora Tropicana - La pollera colorada.mp3 --- 7.01 --- 0.0062695312
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 70 cumbia del amor.mp3 --- 3.39 --- 0.0030371094
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- popurri mix de cumbias.mp3 --- 10.82 --- 0.0096777344 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- popurri mix de cumbias.mp3 --- 10.82 --- 0.0096777344 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 10 Locura.mp3 --- 3.64 --- 0.0032617187
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- la sonora carruseles - cumbia sabrosa.mp3 --- 4.09 --- 0.0036621094
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 03 nadie como tu.mp3 --- 2.17 --- 0.0014550781
@@ -7344,12 +7344,12 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 14 Grupo Cinco - solo tu.mp3 --- 3.74 --- 0.0050195312
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- Bailable.mp3 --- 8.88 --- 0.0059570312
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 18 bronco.wma --- 1.54 --- 0.00140625
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 01 varias cumbias (mix).mp3 --- 17.03 --- 0.0190332031 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 01 varias cumbias (mix).mp3 --- 17.03 --- 0.0190332031 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- Grupo Kual - Chiquilla Bonita.mp3 --- 3.02 --- 0.0027050781
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 04 la pacharaca.mp3 --- 3.14 --- 0.0070214844
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 02 cumbia bailable.mp3 --- 3.81 --- 0.0025585938
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 11 Armando Marcelo - Celos salteñazo.mp3 --- 2.7 --- 0.0024121094
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 046 popurri rigo tovar.mp3 --- 10.56 --- 0.0094433594 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 046 popurri rigo tovar.mp3 --- 10.56 --- 0.0094433594 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- Ricky Maravilla - Que tendra el petiso.mp3 --- 3.09 --- 0.0027734375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- Gripo Mazz - A pesar de todo.mp3 --- 3.72 --- 0.0033300781
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 12 Cumbias del recuerdo.mp3 --- 3.72 --- 0.0049902344
@@ -7362,7 +7362,7 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 11 Noches de Cumbia.mp3 --- 4.6 --- 0.006171875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 10 La Barra - Cumbias villeras.mp3 --- 7.37 --- 0.0065917969
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 08 cumbia de la calle.wma --- 4.13 --- 0.0037207031
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 01 cumbia hexagonal.wma --- 14.08 --- 0.0126660156 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Otras Cumbias --- 01 cumbia hexagonal.wma --- 14.08 --- 0.0126660156 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Bolero/Boleros de Oro -  jose Feliciano, --- jose feliciano - señor bolero.mp3 --- 3.71 --- 0.0033203125
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Bolero/Boleros de Oro -  jose Feliciano, --- jose feliciano - medley de boleros.mp3 --- 6.36 --- 0.007109375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Bolero/Boleros de Oro -  jose Feliciano, --- jose feliciano - que sera .mp3 --- 3.57 --- 0.0032519531
@@ -9202,8 +9202,8 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mercedes Sosa - Discografia/1993 - Mercedes Sosa- Sino --- 03 La solitaria.wma --- 3.22 --- 0.0014550781
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mercedes Sosa - Discografia/1993 - Mercedes Sosa- Sino --- 04 Caruso.wma --- 5.22 --- 0.0023632812
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mercedes Sosa - Discografia/1993 - Mercedes Sosa- Sino --- 11 La media pena.wma --- 2.08 --- 0.0009472656
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mercedes Sosa - Discografia/1985 - Mercedes Sosa - Corazón Americano --- A Corazón Americano.wma --- 23.91 --- 0.0108105469 --- File moved
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mercedes Sosa - Discografia/1985 - Mercedes Sosa - Corazón Americano --- B Corazón Americano.wma --- 22.35 --- 0.0101074219 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mercedes Sosa - Discografia/1985 - Mercedes Sosa - Corazón Americano --- A Corazón Americano.wma --- 23.91 --- 0.0108105469 --- FILE MOVED
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mercedes Sosa - Discografia/1985 - Mercedes Sosa - Corazón Americano --- B Corazón Americano.wma --- 22.35 --- 0.0101074219 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mercedes Sosa - Discografia/1959 - Mercedes Sosa - Maestros.Del.Folklore --- 08_EL INDIO MUERTO.wma --- 2.54 --- 0.0011523437
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mercedes Sosa - Discografia/1959 - Mercedes Sosa - Maestros.Del.Folklore --- 03_JANGADERO.wma --- 2.42 --- 0.00109375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mercedes Sosa - Discografia/1959 - Mercedes Sosa - Maestros.Del.Folklore --- 06_TROPERO PADRE.wma --- 2.78 --- 0.0012597656
@@ -9656,7 +9656,7 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/silvio rodriguez --- silvio rodriguez y luis eduardo aute - mano a mono - dónde pongo lo hallado.mp3 --- 2.44 --- 0.0021875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/silvio rodriguez --- silvio rodriguez jerusalen ano cero.mp3 --- 6.5 --- 0.0050878906
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/silvio rodriguez --- playa girón.mp3 --- 3.39 --- 0.0030371094
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/silvio rodriguez --- silvio rodriguez - ya no te espero.mp3 --- 16.38 --- 0.0036523438 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/silvio rodriguez --- silvio rodriguez - ya no te espero.mp3 --- 16.38 --- 0.0036523438 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/silvio rodriguez --- 16 hay quién precisa.mp3 --- 4.83 --- 0.0043261719
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/silvio rodriguez --- silvio rodriguez y pablo milanes - rabo de nube(2).mp3 --- 4.89 --- 0.004375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/silvio rodriguez --- silvio rodriguez - Óleo de una mujer con sombrero59.mp3 --- 2.44 --- 0.0021875
@@ -9714,7 +9714,7 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/clasicos del merengue/Otras --- Aramis camilo - la varita(2).mp3 --- 4.16 --- 0.0037207031
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/clasicos del merengue/Otras --- Blanca.mp3 --- 5.59 --- 0.005
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/clasicos del merengue/Otras --- Solo.mp3 --- 3.69 --- 0.0049707031
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/clasicos del merengue/Otras --- La lluvia.mp3 --- 17.33 --- 0.0038671875 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/clasicos del merengue/Otras --- La lluvia.mp3 --- 17.33 --- 0.0038671875 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/clasicos del merengue/Otras --- Tony seval aramis camilo el zafiro - el muerto.mp3 --- 4.08 --- 0.0045605469
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/clasicos del merengue/Otras --- Las chicas del can - la loba.mp3 --- 4.29 --- 0.0038378906
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/clasicos del merengue/Otras --- Que cara mas bonita18.mp3 --- 5.03 --- 0.0044921875
@@ -10179,17 +10179,17 @@ El Raton.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/200 EXITOS DEL ROCK EN ESPAÑOL/Andres Calamaro/Andrés Calamaro - Discografia/El Salmón Cd2 --- 17-P N S U R H Q S U R (Recuerdo reloco).mp3 --- 2.83 --- 0.0031640625
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/200 EXITOS DEL ROCK EN ESPAÑOL/Andres Calamaro/Andrés Calamaro - Discografia/El Salmón Cd2 --- 10-Barrio de tango.mp3 --- 2.61 --- 0.0029199219
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz --- Aunque Me Cueste La Vida   Celia Cruz.mp3 --- 2.6 --- 0.0034960938
-CELIA CRUZ   YEMAYA.mp3 -- ERROR DE ARCHIVO 
-CELIA CRUZ   SANDUNGUEATE.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz --- CELIA CRUZ   YEMAYA.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz --- CELIA CRUZ   SANDUNGUEATE.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz --- Nostalgia Cubana   Celia Cruz y La Sonora Matancera   Bonco.mp3 --- 3.12 --- 0.0041894531
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz --- Celia Cruz   Azucar Negra Lyrics.mp3 --- 3.1 --- 0.0069335937
-CELIA CRUZ   TUYA MAS QUE TUYA.mp3 -- ERROR DE ARCHIVO 
-CELIA CRUZ Y LA SONORA MATANCERA   SAOCO.mp3 -- ERROR DE ARCHIVO 
-CELIA CRUZ y la sonora matancera.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz --- CELIA CRUZ   TUYA MAS QUE TUYA.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz --- CELIA CRUZ Y LA SONORA MATANCERA   SAOCO.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz --- CELIA CRUZ y la sonora matancera.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz --- Te Busco   Celia Cruz (1925   2003).mp3 --- 4.19 --- 0.0056152344
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz --- CELIA CRUZ   NUEVO RITMO OMELENKO.mp3 --- 0.01 --- 1.95313e-05
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz --- ALBERTO BELTRAN  CELIA CRUZ (Aunque me cueste la vida).mp3 --- 2.96 --- 0.0039648437
-CELIA CRUZ   VIEJA LUNA.mp3 -- ERROR DE ARCHIVO 
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz --- CELIA CRUZ   VIEJA LUNA.mp3 --- 0 --- 0 --- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz/celia cruz , exitos eternos --- 14 Por Si Acaso No Regreso.mp3 --- 5.81 --- 0.0078027344
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz/celia cruz , exitos eternos --- 10 Cúcala [Live].mp3 --- 5.13 --- 0.006875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Celia Cruz/celia cruz , exitos eternos --- 08 La Voz de la Experiencia.mp3 --- 5.43 --- 0.0072851562
@@ -10769,7 +10769,7 @@ CELIA CRUZ   VIEJA LUNA.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Toño Rosario/Discografia/Grandes Exitos - Cinco Años De Platino --- Toño Rosario - Tu Mujer.mp3 --- 5.49 --- 0.0049023437
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Toño Rosario/Discografia/Grandes Exitos - Cinco Años De Platino --- Toño Rosario - Mal Pago (Amor Gitano).mp3 --- 4.26 --- 0.0038085937
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Toño Rosario/Discografia/Grandes Exitos - Cinco Años De Platino --- Toño Rosario - Barbara.mp3 --- 4.24 --- 0.0037890625
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Toño Rosario/Discografia/Grandes Exitos - Cinco Años De Platino --- Toño Rosario - Sin Truco (Long Re-Mix Version).mp3 --- 10.31 --- 0.00921875 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Toño Rosario/Discografia/Grandes Exitos - Cinco Años De Platino --- Toño Rosario - Sin Truco (Long Re-Mix Version).mp3 --- 10.31 --- 0.00921875 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Toño Rosario/Discografia/Grandes Exitos - Cinco Años De Platino --- Toño Rosario - Quiesiera Amarte Menos.mp3 --- 5.0 --- 0.0044726563
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Toño Rosario/Discografia/Grandes Exitos - Cinco Años De Platino --- Toño Rosario Jenny.mp3 --- 4.03 --- 0.0036035156
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Shakira - Discografia/1993 - Shakira Peligro --- 07 Shakira - Eterno Amor.mp3 --- 4.65 --- 0.0062304687
@@ -10977,7 +10977,7 @@ CELIA CRUZ   VIEJA LUNA.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/cumbia kings --- Costa Brava -- Tu Precio.mp3 --- 4.85 --- 0.0021679688
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/cumbia kings --- Sabes A Chocolate.mp3 --- 3.92 --- 0.0017480469
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/cumbia kings --- la cucaracha con cumbia king.mp3 --- 3.47 --- 0.0015527344
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Guarachas --- La Guaracha Sabrosona ALBERTO PEDRAZA.mp3 --- 10.77 --- 0.0048144531 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Guarachas --- La Guaracha Sabrosona ALBERTO PEDRAZA.mp3 --- 10.77 --- 0.0048144531 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Guarachas --- La Filomena guaracha.mp3 --- 3.52 --- 0.0015722656
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Guarachas --- 10 - guaracha - remix de guarachas.mp3 --- 6.42 --- 0.0057421875
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Guarachas --- SONIDO LA CHANGA - LA GUARACHA DE YIYO.mp3 --- 2.91 --- 0.0012988281
@@ -11050,7 +11050,7 @@ CELIA CRUZ   VIEJA LUNA.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/JUAN GABRIEL ALBUM_  LA HISTORIA DEL DIVO (GENERO_ BALADA ROMANTICA) --- 13 Pero Que Necesidad.mp3 --- 5.92 --- 0.0052929687
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- Juan Gabriel Ft Gloria Trevi   AMOR ETERNO.mp3 --- 5.82 --- 0.0078027344
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- Juan Gabriel Se me olvido otra vez.mp3 --- 2.93 --- 0.0039355469
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- ORGANO MELODICO DE JUAN TORRES   INTERPRETA A JUAN GABRIEL.mp3 --- 16.77 --- 0.0224902344 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- ORGANO MELODICO DE JUAN TORRES   INTERPRETA A JUAN GABRIEL.mp3 --- 16.77 --- 0.0224902344 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- Rocío Dúrcal y Juan Gabriel   Déjame vivir Vídeo Clip.mp3 --- 3.81 --- 0.0051074219
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- Juan Gabriel   Querida ft Juanes.mp3 --- 4.86 --- 0.0065234375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- JUAN GABRIEL LA FRONTERA VIDEO OFICIAL.mp3 --- 4.13 --- 0.0055371094
@@ -11061,10 +11061,10 @@ CELIA CRUZ   VIEJA LUNA.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- Juan Gabriel Siempre en mi mente.mp3 --- 3.41 --- 0.0045800781
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- No me vuelvo a enamorar (Juan Gabriel).mp3 --- 3.37 --- 0.0045117188
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- José   José y Juan Gabriel  ¿Qué ganaste corazón.mp3 --- 3.51 --- 0.0047070313
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- ORGANO MELODICO DE JUAN TORRES   INTERPRETA A JUAN GABRIEL[1].mp3 --- 16.78 --- 0.0225 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- ORGANO MELODICO DE JUAN TORRES   INTERPRETA A JUAN GABRIEL[1].mp3 --- 16.78 --- 0.0225 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- José José   Dueto con Juan Gabriel   Como Hacer Para Olvidar.mp3 --- 4.99 --- 0.0066894531
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- Juan Gabriel   Hasta Que Te Conocí.mp3 --- 9.37 --- 0.0125683594
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- Juan Gabriel, video nunca antes visto![2].mp3 --- 17.98 --- 0.0241113281 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- Juan Gabriel, video nunca antes visto![2].mp3 --- 17.98 --- 0.0241113281 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- Juan Gabriel Caray ( Video Oficial ).mp3 --- 3.78 --- 0.0050683594
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- Juan Gabriel   Noa Noa.mp3 --- 4.21 --- 0.0056542969
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Juan Gabriel/Juan Gabriel --- NO TENGO DINERO   JUAN GABRIEL 1972.mp3 --- 3.07 --- 0.0041210937
@@ -11486,8 +11486,8 @@ CELIA CRUZ   VIEJA LUNA.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Sonora Dinamita/1998 - Exitos Tropicosos --- de Aquellos Na.mp3 --- 3.22 --- 0.0028027344
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Sonora Dinamita/1998 - Exitos Tropicosos --- Mi Cucu.mp3 --- 3.93 --- 0.0034277344
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Sonora Dinamita/1998 - Exitos Tropicosos --- El Coco de La Vieja.mp3 --- 3.16 --- 0.0027246094
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Sonora Dinamita/1999 - 30 Pegaditas de oro --- 01 sonora dinamita megamix 1.mp3 --- 20.67 --- 0.0179296875 --- File moved
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Sonora Dinamita/1999 - 30 Pegaditas de oro --- 02 sonora dinamita megamix 2.mp3 --- 25.63 --- 0.0225976563 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Sonora Dinamita/1999 - 30 Pegaditas de oro --- 01 sonora dinamita megamix 1.mp3 --- 20.67 --- 0.0179296875 --- FILE MOVED
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Sonora Dinamita/1999 - 30 Pegaditas de oro --- 02 sonora dinamita megamix 2.mp3 --- 25.63 --- 0.0225976563 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Sonora Dinamita/2000 - De reventón --- 07.La Oaxaqueña.mp3 --- 3.51 --- 0.0031152344
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Sonora Dinamita/2000 - De reventón --- 14.Yo Tambien Tengo Un Sombrero.mp3 --- 3.79 --- 0.0033886719
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Sonora Dinamita/2000 - De reventón --- 12.Tus Lagrimas.mp3 --- 3.59 --- 0.0031542969
@@ -11646,7 +11646,7 @@ CELIA CRUZ   VIEJA LUNA.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/alejandro filio --- alejandro filio y amaury perez - otro domingo sin sol.mp3 --- 4.09 --- 0.0036621094
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/alejandro filio --- alejandro filio, silvio rodríguez - brazos de sol.mp3 --- 4.04 --- 0.0036132813
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/alejandro filio --- alejandro filio - con tus ojos(2)282.mp3 --- 4.98 --- 0.0044921875
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mambo --- mezcla_merengue_new_125_tito_swing_y_omega.mp3 --- 16.0 --- 0.0286230469 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mambo --- mezcla_merengue_new_125_tito_swing_y_omega.mp3 --- 16.0 --- 0.0286230469 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mambo --- Pérez Prado - Ay cosita linda.mp3 --- 2.32 --- 0.0031152344
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mambo --- perez prado - mambo pachuco.mp3 --- 2.95 --- 0.0026464844
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Mambo --- 11 AY! COSITA LINDA.mp3 --- 2.32 --- 0.0031152344
@@ -12089,7 +12089,7 @@ CELIA CRUZ   VIEJA LUNA.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Thalia(Discografia)/Thalia (english) (2oo3) --- 11 - Thalia - Me Pones Sexy (featuring Fat Joe).mp3 --- 3.79 --- 0.0033984375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Thalia(Discografia)/Thalia (english) (2oo3) --- 08 - Thalia - Save The Day.mp3 --- 3.79 --- 0.0033886719
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Thalia(Discografia)/Thalia (english) (2oo3) --- 12 - Thalia - Alguien Real (Baby, I'm In Love).mp3 --- 4.02 --- 0.00359375
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Thalia(Discografia)/Amor a la Mexicana (1997) --- 04 - Thalia - Amor A La Mexicana.mp3 --- 17.69 --- 0.0039453125 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Thalia(Discografia)/Amor a la Mexicana (1997) --- 04 - Thalia - Amor A La Mexicana.mp3 --- 17.69 --- 0.0039453125 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Thalia(Discografia)/Amor a la Mexicana (1997) --- 06 - Thalia - Echa Pa' Lante.mp3 --- 3.88 --- 0.0067773438
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Thalia(Discografia)/Amor a la Mexicana (1997) --- 05 - Thalia - Rosas.mp3 --- 4.61 --- 0.0041210937
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Thalia(Discografia)/Amor a la Mexicana (1997) --- 10 - Thalia - Dicen por Ahi.mp3 --- 3.99 --- 0.0035742188
@@ -12237,7 +12237,7 @@ CELIA CRUZ   VIEJA LUNA.mp3 -- ERROR DE ARCHIVO
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Enrique Bunbury/canciones --- 11 Miento cuando digo que lo siento   BUNBURY (Palosanto).mp3 --- 5.11 --- 0.0068554687
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Enrique Bunbury/canciones --- Enrique Bumbury - El Jinete.mp3 --- 5.16 --- 0.004609375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Enrique Bunbury/canciones --- BUNBURY   Ánimas, que no amanezca  (videoclip).mp3 --- 4.72 --- 0.0063378906
-/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Enrique Bunbury/canciones --- Mediometraje Lo que más te gustó de mí   Enrique Bunbury Gran Rex.mp3 --- 36.17 --- 0.0485058594 --- File moved
+/home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Enrique Bunbury/canciones --- Mediometraje Lo que más te gustó de mí   Enrique Bunbury Gran Rex.mp3 --- 36.17 --- 0.0485058594 --- FILE MOVED
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Enrique Bunbury/canciones --- Enrique Bumbury - Fantasia.mp3 --- 0.64 --- 0.0009375
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Enrique Bunbury/canciones --- Bunbury   De Mayor.mp3 --- 4.92 --- 0.0066015625
 /home/radio-mickyandonie/Desktop/radio-ma/mr-spanish/Enrique Bunbury/canciones --- 13 Plano secuencia   BUNBURY (Palosanto).mp3 --- 4.27 --- 0.0057324219

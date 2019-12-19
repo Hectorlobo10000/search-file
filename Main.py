@@ -67,7 +67,7 @@ def getDataFiles(directory, filename, destination):
               """ mover archivos grandes """
               dest = directory + destination + file
               if moveLargeFile(pathFile, round((fileDuration / 60), 2), dest):
-                text = file + " --- " + str(round((fileDuration / 60), 2)) + " --- " + str(fileSize) + " --- File moved" + "\n"
+                text = file + " --- " + str(round((fileDuration / 60), 2)) + " --- " + str(fileSize) + " --- FILE MOVED" + "\n"
               else:
                 text = file + " --- " + str(round((fileDuration / 60), 2)) + " --- " + str(fileSize) + "\n"
               """ impresion """
@@ -75,7 +75,7 @@ def getDataFiles(directory, filename, destination):
               totalSeconds += f.duration
           except Exception as e:
             print(e)
-            list.write(file + " -- ERROR DE ARCHIVO \n")
+            list.write(root + " --- " + file + " --- ERROR DE ARCHIVO" + "\n")
   totalDurationDays = getDuration(totalSeconds)
   list.write("\n")
   list.write("Total seconds: " + str(totalSeconds) + "\n")
